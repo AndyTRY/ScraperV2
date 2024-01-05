@@ -1,0 +1,20 @@
+body {
+    background :rgb(63, 48, 146) ;
+    color: #fff;
+}
+
+#Logo-Neweggs{
+    height: 300px;
+    width: 300px;
+}
+
+.searchBar{
+    display: flex;
+}
+
+#loaderGif{
+    padding-left: 2em;
+    height: 2em;
+    width: 2em;
+    visibility: hidden;
+}
